@@ -1,0 +1,52 @@
+.navbar {
+    /* height: 300px;
+    margin: 0px; */
+    /* background-color: #114f8d; */
+    /* background-image: url('/src/img/header.jpg'); */
+    width: 100vw;
+}
+
+.navbar img {
+    width: 300px;
+}
+
+.sidebar a {
+    color: black;
+    text-decoration: none;
+}
+
+.card-columns {
+    display: flex;
+    flex-wrap: wrap;    }
+
+.card{
+    max-width: 400px;
+    margin: 0.5em;
+}
+
+.card-img-top{
+    /* max-height: 500px; */
+}
+
+.nota{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+    color: green;
+    font-size: 1.5em;;
+}
+
+.nota i{
+    padding: 0.2em;
+}
+
+.content {
+    /* background-color: #c40d0d; */
+}
+
+footer {
+    /* background-color: #07b107; */
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
